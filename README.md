@@ -1,0 +1,4 @@
+extra
+=====
+
+separated usable class
